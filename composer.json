@@ -1,0 +1,17 @@
+{
+  "name": "alitokmakci/apollo-framework",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Apollo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ali Tokmakcı",
+      "email": "alitokmakci@outlook.com"
+    }
+  ],
+  "require": {}
+}
